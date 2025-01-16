@@ -1,4 +1,4 @@
-#python-projects
+# python-projects
 
 Hello, hello!!!😊 Welcome to my collection of beginner-friendly Python projects! This repository is a growing collection of small projects and exercises that I've built while learning Python. As I continue to improve my skills, I'll be adding new projects that explore fundamental programming concepts and problem-solving techniques. These projects focus on essential Python skills, including variables, loops, conditionals, functions, and data structures. Each project is carefully commented to help others follow along and understand the thought process behind the code.
 
